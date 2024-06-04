@@ -1,0 +1,163 @@
+@font-face {
+    font-family: 'Saakxmat';
+    src: "C:\\Windows\\Fonts\\Saakxmat.ttf";
+}
+
+a {
+    color: black;
+}
+
+body {
+    background-color: #d6feff;
+    font-family: "Calibri", serif;
+    font-size: 16pt;
+    margin: auto;
+    padding: auto;
+    text-align: center;
+    text-decoration: none;
+}
+
+button {
+    background-color: white;
+    font-family: "Calibri", serif;
+    font-size: 16pt;
+    left: 0px;
+    text-align: center;
+}
+
+.conjunctions {
+    font-size: 24px;
+    height: 50px;
+    left: 0px;
+    padding-top: 20px;
+    width: 17.5%;
+}
+
+.fivecols td, .fivecols th {
+    width: 20%;
+}
+
+.fourcols td, .fourcols th {
+    width: 25%;
+}
+
+.glyph {
+    font-family: "Saakxmat";
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+header {
+    background-color: #80fdff;
+    height: 60px;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: fixed;
+    text-align: center;
+    top: 0px;
+}
+
+input {
+    font-family: "Calibri", serif;
+    font-size: 16pt;
+    text-align: center;
+}
+
+input[type="search"]::-webkit-search-decoration,
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-results-button,
+input[type="search"]::-webkit-search-results-decoration { display: none; }
+
+nav {
+    background-color: #80fdff;
+    height: 50px;
+    left: 0px;
+    position: fixed;
+    top: 80px;
+    width: 100%;
+}
+
+p {
+    margin-bottom: -20px;
+}
+
+pre {
+    font-family: "Calibri", serif;
+}
+
+.phonotactics {
+    font-size: 24px;
+    height: 50px;
+    left: 17.5%;
+    padding-top: 20px;
+    width: 17.5%
+}
+
+section {
+    padding-top: 140px;
+}
+
+.sixcols td, .sixcols th{
+    width: 16.5%;
+}
+
+.script {
+    font-size: 24px;
+    height: 50px;
+    left: 65%;
+    padding-top: 20px;
+    width: 17.5%
+}
+
+.suffixes {
+    font-size: 24px;
+    height: 50px;
+    left: 82.5%;
+    padding-top: 20px;
+    width: 17.5%
+}
+
+table {
+    border: solid black;
+    border-collapse: collapse;
+    border-width: 0.5px;
+    margin: auto;
+    margin-bottom: 50px;
+    width: 95%;
+}
+
+td {
+    border: solid black;
+    border-width: 0.5px;
+}
+
+th {
+    border: solid black;
+    border-width: 0.5px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+.threecols td, .threecols th {
+    width: 33%;
+}
+
+.title {
+    font-family: "Impact Regular", serif;
+    font-size: 36pt;
+    font-weight: normal;
+    left: 35%;
+    width: 30%;
+}
+
+tr {
+    border: solid black;
+    border-width: 0.5px;
+}
+
+.twocols td, .twocols th {
+    width: 50%;
+}
